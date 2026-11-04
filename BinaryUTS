@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover" />
+    <title>Duelo Binario: Saloon del Viejo Oeste</title>
+    <meta name="description" content="Juego del Salvaje Oeste para dominar la conversión de números binarios a decimales en 10 niveles de disparos rápidos, medallas y marcadores globales." />
+    <meta property="og:title" content="Duelo Binario: Saloon del Viejo Oeste" />
+    <meta property="og:description" content="Juego del Salvaje Oeste para dominar la conversión de números binarios a decimales en 10 niveles de disparos rápidos, medallas y marcadores globales." />
+    <meta property="og:type" content="website" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="theme-color" content="#29180d" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="apple-mobile-web-app-title" content="DueloBinario" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <link rel="icon" type="image/svg+xml" href="/icon.svg" />
+    <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Rye&family=Sancreek&family=Cinzel:wght@600;800;900&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet" />
+  </head>
+  <body class="bg-[#1a0e08] text-[#fbf0d9] select-none antialiased overflow-x-hidden">
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
